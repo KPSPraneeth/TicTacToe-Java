@@ -27,6 +27,10 @@ of the game run. These players are stored in the array list and the points for e
 updated in another array list. Initially, each player is assigned with 0 points if the player is a limited 
 player and if he/she is a VIP player then that player points are updated with 10 points as the user is a VIP 
 player.
+
+![image](https://user-images.githubusercontent.com/71883178/131529532-93053255-3e31-4cf6-a540-258b4106aeab.png)
+
+
 This class consists of 3 different methods which are used to store or update the player information 
 based on certain conditions which are detailed below.
 VIP player:
